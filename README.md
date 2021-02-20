@@ -25,4 +25,4 @@
 
 # Instructions on how to use the Application code:
 
-	   Please refer the instructions at the {WIKI} section: https://github.com/mkr302/GUI_Math_Calculator_App-Python_Tkinter/wiki
+   Please refer the instructions at the {WIKI} section: https://github.com/mkr302/GUI_Math_Calculator_App-Python_Tkinter/wiki
