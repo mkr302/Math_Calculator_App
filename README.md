@@ -17,3 +17,12 @@
             Ans - Retrieves the last calculated result
             MC - Clears the memory i.e. resets the last calculated result to zero
 
+#### Features in the Application:
+            - User Input validation, ignores non-int/non-float inputs
+            - Catches the exception of division by zero
+            - Allows a series of numbers and operators to be entered as a single input and performs validation as well as calculation
+            - Memory to hold last calculated value
+
+# Instructions on how to use the Application code:
+
+	   Please refer the instructions at the {WIKI} section: https://github.com/mkr302/GUI_Math_Calculator_App-Python_Tkinter/wiki
